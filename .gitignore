@@ -1,2 +1,7 @@
-/.idea
-/.mvn
+.idea
+.mvn
+.DS_Store
+*.md
+*.iml
+Mvnw
+*.cmd
